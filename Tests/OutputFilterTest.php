@@ -20,7 +20,7 @@ class FilterTestObject
     public $string1;
     public $string2;
     public $string3;
-    public $string4;   
+    public $_string4;   
     public $array1;
 
     /**
